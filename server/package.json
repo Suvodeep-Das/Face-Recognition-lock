@@ -1,0 +1,23 @@
+{
+  "name": "lockcvjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.4.0",
+    "@tensorflow/tfjs-node-gpu": "^4.4.0",
+    "@vladmandic/face-api": "^1.7.10",
+    "body-parser": "^1.20.2",
+    "canvas": "^2.11.2",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "face-api.js": "^0.22.2",
+    "nodemon": "^2.0.22"
+  }
+}
